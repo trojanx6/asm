@@ -10,11 +10,6 @@
 ![](https://img.shields.io/github/stars/trojanx6/asm) ![](https://img.shields.io/github/forks/trojanx6/asm) ![]]](https://img.shields.io/github/issues/trojanx6/asm) 
 
 
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
 
 # What is attack surface management?
 
@@ -31,22 +26,10 @@ The entity, that is, the system and version you entered into the program, detect
 ----
 
 
-
-
-
-
-
 ###Images
 
 Image:
 
 > Sample Image from Tool
 
-[![Sample Image from Tool](https://i.hizliresim.com/2dl1k11.jpg "Sample Image from Tool")](http://i.hizliresim.com/2dl1k11.jpg "Sample Image from Tool")
-
-
-
-
-
-
-
+![Sample Image from Tool](https://i.hizliresim.com/2dl1k11.jpg "Sample Image from Tool")
