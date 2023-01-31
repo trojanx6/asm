@@ -7,7 +7,7 @@
 
 ![logo.png](https://i.hizliresim.com/e37qsph.jpg "logo.png")
 ![]()
-![](https://img.shields.io/github/stars/trojanx6/asm) ![](https://img.shields.io/github/forks/trojanx6/asm) ![]]](https://img.shields.io/github/issues/trojanx6/asm) 
+![](https://img.shields.io/github/stars/trojanx6/asm) ![](https://img.shields.io/github/forks/trojanx6/asm) ![](https://img.shields.io/github/issues/trojanx6/asm) 
 
 
 
@@ -33,3 +33,4 @@ Image:
 > Sample Image from Tool
 
 ![Sample Image from Tool](https://i.hizliresim.com/2dl1k11.jpg "Sample Image from Tool")
+
