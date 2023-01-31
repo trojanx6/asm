@@ -34,7 +34,7 @@ sc = []
 endliste = []
 sayac_li =0
 num = 0
-token = "5704829126:AAHRwvozF5m0UD4PmyLe2tEUz8qI-9542Yc"
+token = "BOT-TOKEN"
 bot = telebot.TeleBot(token)
 
 for cevirme in tr_itemclass:
