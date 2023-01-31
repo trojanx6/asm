@@ -6,7 +6,7 @@
 #Attack Surface Management.md
 
 ![logo.png](https://i.hizliresim.com/e37qsph.jpg "logo.png")
-![]()
+
 ![](https://img.shields.io/github/stars/trojanx6/asm) ![](https://img.shields.io/github/forks/trojanx6/asm) ![](https://img.shields.io/github/issues/trojanx6/asm) 
 
 
