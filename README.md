@@ -7,6 +7,7 @@
 
 ![logo.png](https://i.hizliresim.com/e37qsph.jpg "logo.png")
 
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 ![](https://img.shields.io/github/stars/trojanx6/asm) ![](https://img.shields.io/github/forks/trojanx6/asm) ![](https://img.shields.io/github/issues/trojanx6/asm) 
 
 
