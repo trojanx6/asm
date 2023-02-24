@@ -26,14 +26,3 @@ The entity, that is, the system and version you entered into the program, detect
                 
 ----
 
-
-### Images
-
-Image:
-
-> Sample Image from Tool
-
-![Sample Image from Tool](https://i.hizliresim.com/2dl1k11.jpg "Sample Image from Tool")
-
-
-![Logo](https://i.hizliresim.com/6j0xe3k.png)
